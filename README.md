@@ -1,11 +1,11 @@
 # Arduino
 Notes related to Arduino micro controller 
 
-#Getting Started
+## Getting Started
 
 Guide: https://www.arduino.cc/en/Guide/ArduinoNano
 
-#Possible errors
+## Possible errors
 
 avrdude: stk500_getsync()
 #Possible fix: Change the processor to ATmega328P (Old Bootloader)
