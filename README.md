@@ -14,3 +14,5 @@ _Possible fix: Change the processor to ATmega328P (Old Bootloader)_
 > bootloader, while boards manufactured before that date have the old bootloader. To program old boards you need to choose
 > Processor > "ATmega328P (Old Bootloader)".**
 
+
+:octocat:
